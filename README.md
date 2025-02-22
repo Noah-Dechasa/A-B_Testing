@@ -29,8 +29,3 @@ The analysis involved performing the following tasks:
 - **Website Clicks**, **Searches**, and **Purchases** did not show significant improvements, indicating that changes in the test group did not significantly affect those behaviors.
 - Cohen’s d suggested that the effects on **Impressions** and **Add to Cart** were large, indicating practical significance.
 
-## How to Run the Analysis
-
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/your-username/ab-testing-ux-optimization.git
